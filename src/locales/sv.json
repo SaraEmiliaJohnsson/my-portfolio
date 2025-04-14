@@ -3,5 +3,9 @@
   "about": "Om mig",
   "projects": "Projekt",
   "contact": "Kontakt",
-  "language": "Byt språk"
+  "language": "English",
+  "hero_title": "Hej, jag är <1>Sara Johnsson</1>",
+  "hero_subtitle": "Frontendutvecklare & Kreativ problemlösare",
+  "hero_text": "Jag skapar moderna, tillgängliga och responsiva webbsidor med en färgklick och mycket hjärta.",
+  "hero_button": "Se mina projekt"
 }
