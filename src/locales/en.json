@@ -3,5 +3,9 @@
   "about": "About me",
   "projects": "Projects",
   "contact": "Contact",
-  "language": "Change Language"
+  "language": "Svenska",
+  "hero_title": "Hi, I'm <1>Sara Johnsson</1>",
+  "hero_subtitle": "Frontend Developer & Creative Thinker",
+  "hero_text": "I craft modern, accessible and responsive websites with a touch of color and a lot of heart.",
+  "hero_button": "See my work"
 }

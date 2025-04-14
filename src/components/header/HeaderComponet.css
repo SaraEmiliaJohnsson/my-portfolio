@@ -23,7 +23,7 @@
 }
 
 .logo a:hover {
-  color: #ff6700; 
+  color: #a259ff; 
 }
 
 .hamburger {
@@ -52,7 +52,7 @@
 }
 
 .header-ul a:hover {
-  color: #ff6700; 
+  color: #a259ff; 
 }
 
 .lang-btn {
@@ -72,7 +72,7 @@
 
 
 .lang-btn:hover {
-  background: #ff6700;
+  background: #a259ff;
   color: white;
   transform: scale(1.05);
 }
